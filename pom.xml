@@ -291,6 +291,7 @@
         <artifactId>cyclonedx-maven-plugin</artifactId>
       </plugin>
     </plugins>
+    <finalName>app</finalName>
   </build>
   <licenses>
     <license>
