@@ -76,10 +76,10 @@ kubectl apply -f k8s/
 ## 🌐 Access
 
 * Docker:
-  http://<server-ip>:9090
+  http://10.145.128.17:9090
 
 * Nginx Reverse Proxy:
-  http://<server-ip>/service-a
+  http://10.145.128.17/service-a
 
 ---
 
